@@ -69,24 +69,7 @@
 				</div>
 			</div>
 	<?php include "include/sidebar.php"; ?>
-<!-- 			<div class="view-more-article">
-				<button type="submit">Показать еще</button>
-			</div> -->
-<!-- 			<div class="pagination">
-				<ul>
-					<li>Назад</li>
-					<li>1</li>
-					<li>2</li>
-					<li>3</li>
-					<li>4</li>
-					<li>5</li>
-					<li>6</li>
-					<li>7</li>
-					<li>8</li>
-					<li>9</li>
-					<li>Вперед</li>
-				</ul>
-			</div> -->
+
 		</section>
 
 	<?php include "include/footer.php"; ?>
